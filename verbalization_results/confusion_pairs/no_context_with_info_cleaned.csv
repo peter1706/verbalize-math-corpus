@@ -1,0 +1,778 @@
+reference,hypothesis,count,group
+open parenthesis,the quantity,38,Brackets/grouping
+comma,and,31,punctuation/separators
+times,by,30,basic operators
+close,raised,23,Superscript/exponents
+open square bracket,the concentration of,18,Brackets/grouping
+equals,to,16,basic operators
+lowercase,letter,16,latin letters
+times,and,11,basic operators
+and,over,5,Fractions/Divisions
+lowercase,function,5,latin letters
+lowercase,variable,5,latin letters
+lowercase,sub,5,latin letters
+equals,from,5,basic operators
+divided,over,5,Fractions/Divisions
+over,by,5,Fractions/Divisions
+left curly brace,the set containing,4,Brackets/grouping
+is,equals,4,basic operators
+over,to,3,Fractions/Divisions
+fraction with,quotient of,3,Fractions/Divisions
+open curly brace,the set of,3,Brackets/grouping
+equals,a,3,basic operators
+plus,and,3,basic operators
+parenthesis,quantity,3,Brackets/grouping
+representing,equals,3,basic operators
+with,over,3,Fractions/Divisions
+superscript,to,3,Superscript/exponents
+open curly brace,set of all,3,Brackets/grouping
+calligraphic,script,3,greek letters
+fraction with,ratio of,2,Fractions/Divisions
+subscript,the,2,Subscripts/indices
+upper,c,2,capitalization
+open bracket,the quantity,2,Brackets/grouping
+open parenthesis,n variables,2,Brackets/grouping
+brace,bracket,2,Brackets/grouping
+defined as,equal to,2,basic operators
+lowercase,each,2,latin letters
+over d,respect to,2,Fractions/Divisions
+open parenthesis,function of,2,Brackets/grouping
+open square bracket,of the quantity,2,Brackets/grouping
+sun symbol,circled dot,2,punctuation/separators
+raised to the,with a superscript,2,Superscript/exponents
+index,indices,2,Subscripts/indices
+uppercase,potential,2,capitalization
+equals,as,2,basic operators
+close parenthesis,evaluated at,2,Brackets/grouping
+lowercase,premium,2,latin letters
+lowercase k,k which,2,latin letters
+plus,sine,2,basic operators
+comma,positive,2,punctuation/separators
+of open parenthesis,a function of,2,Brackets/grouping
+symbol equals,equal to,2,basic operators
+open parenthesis,the product,2,Brackets/grouping
+superscript open,at iteration,2,Superscript/exponents
+argument,beta,2,greek letters
+sub,lowercase,2,latin letters
+lowercase,“lowercase,2,latin letters
+comma then,followed by,2,punctuation/separators
+equals,at,2,basic operators
+bracket,parenthesis,2,Brackets/grouping
+lowercase,meaning,2,latin letters
+lowercase,number,2,latin letters
+comma,is,2,punctuation/separators
+open curly brace,the set containing,2,Brackets/grouping
+colon,to,2,punctuation/separators
+of open parenthesis,at the quantity,2,Brackets/grouping
+overline y,y bar,2,Fractions/Divisions
+the,equals,2,basic operators
+number,sum,2,summations
+to,squared,2,Superscript/exponents
+lowercase,of,2,latin letters
+superscript,indices,2,Superscript/exponents
+times,the,2,basic operators
+close parenthesis,and then,2,Brackets/grouping
+equals,in,2,basic operators
+lowercase,rate,2,latin letters
+dot,through,2,punctuation/separators
+which,formula,2,greek letters
+lowercase,all,2,latin letters
+comma,to,2,punctuation/separators
+subscript,an,2,Subscripts/indices
+subscript sun,an solar,2,Subscripts/indices
+with,dot,2,punctuation/separators
+dot dot,up to,2,punctuation/separators
+dot,ellipsis,2,punctuation/separators
+epsilon,symbol,2,greek letters
+of d,over dee,2,Fractions/Divisions
+times,to,2,basic operators
+superscript,nought,1,Superscript/exponents
+the geochemical measure,delta with a,1,greek letters
+parenthesis,bracket,1,Brackets/grouping
+the ten possible nearest-neighbor pairs symbolized as n subscript,events or reactions for each event type indexed by,1,Subscripts/indices
+close parenthesis which denotes the,by its respective standard gibbs,1,Brackets/grouping
+quantity vertical bar,in ket notation,1,Brackets/grouping
+which,superscript,1,Superscript/exponents
+and,divided,1,Fractions/Divisions
+in,plus,1,basic operators
+outflow plus,final concentration,1,basic operators
+fraction with,ratio the,1,Fractions/Divisions
+the,parenthesis,1,Brackets/grouping
+and a right superscript,roman u u e,1,Superscript/exponents
+square root of,fraction with numerator,1,Fractions/Divisions
+denotes the light wavelength,and a superscript upright,1,Superscript/exponents
+upper,three,1,capitalization
+subscript,h,1,Subscripts/indices
+of,equals,1,basic operators
+comma dot dot dot,and so on until,1,punctuation/separators
+set,intersection,1,Brackets/grouping
+times,an,1,basic operators
+sum,is,1,summations
+times,is,1,basic operators
+is,determines,1,optimization operators
+twenty-three fraction bits with,of the mantissa including,1,Fractions/Divisions
+for normalized numbers and e is,and the power of two represents,1,Superscript/exponents
+stored eight-bit biased exponent with,exponent after adjusting for a,1,Superscript/exponents
+formula,direct,1,greek letters
+dot dot,an ellipsis,1,punctuation/separators
+logical and dot dot dot logical,an ellipsis meaning the pattern continues,1,punctuation/separators
+superscript,as,1,Superscript/exponents
+n which represents,c sub i,1,Subscripts/indices
+a given data type,elements in the set,1,Brackets/grouping
+variable x,set containing,1,Brackets/grouping
+open curly brace,strings formed by,1,Brackets/grouping
+ranking function known as best matching,variable b is equal to zero,1,basic operators
+the,upper-case,1,capitalization
+comma,through,1,punctuation/separators
+t close parenthesis,tee dee zee,1,Brackets/grouping
+lowercase,ex,1,latin letters
+representing the value of the,which is equal to a,1,basic operators
+real growth rate equals,t is equal to,1,basic operators
+lowercase t,t all,1,latin letters
+uppercase,is,1,capitalization
+raised to,mathematical constant,1,Superscript/exponents
+power,exponent,1,Superscript/exponents
+plus,risk,1,basic operators
+when used,a fraction,1,Fractions/Divisions
+where y,this formula,1,greek letters
+equals the,as a,1,basic operators
+close parenthesis and,which is the,1,Brackets/grouping
+which represent an n-tuple of non-intersecting paths,each p subscript i represents a path,1,Subscripts/indices
+dot dot dot,of the pattern,1,punctuation/separators
+the number of,is equal to,1,basic operators
+all bold lowercase,that the vector,1,latin letters
+imaginary,fraction,1,Fractions/Divisions
+close square bracket,the quantity in,1,Brackets/grouping
+known as,equal to,1,basic operators
+sine,sum,1,summations
+the quantity,three variables,1,Brackets/grouping
+times the,cosine y,1,basic operators
+squared,term,1,Superscript/exponents
+times d,derivative of,1,basic operators
+plus,term,1,basic operators
+times y equals zero where,earth's gravitational field the constant,1,basic operators
+equals vector c of t,with an arrow above it,1,basic operators
+an element,equal to,1,basic operators
+the sequence,curly bracket,1,Brackets/grouping
+translation equivalent,enumerable sets,1,Brackets/grouping
+open,times,1,basic operators
+equals,representing,1,basic operators
+equals,represents,1,basic operators
+applying the transformation leads to a solution,mathematical formula is read as follows: f,1,greek letters
+open parenthesis,y space,1,Brackets/grouping
+comma,x,1,punctuation/separators
+comma,expression,1,punctuation/separators
+open angle bracket,value of the,1,Brackets/grouping
+twenty-four operator name diag open parenthesis,diagonal matrix whose diagonal entries are,1,Brackets/grouping
+close parenthesis,psi as,1,Brackets/grouping
+given initial configuration equals the,t in terms of an,1,basic operators
+close parenthesis,v-band magnitudes,1,Brackets/grouping
+parenthesis where,the term,1,Brackets/grouping
+open parenthesis,one of,1,Brackets/grouping
+close parenthesis,with a,1,Brackets/grouping
+the refractive index of the initial medium through which,perfectly transmitted through a transparent dielectric surface without reflection,1,Subscripts/indices
+subscript two is,one refer to,1,Subscripts/indices
+represents,equals,1,basic operators
+conservation equation for,formula states that,1,greek letters
+velocity vector,greek letter,1,latin letters
+grad of,of lowercase,1,latin letters
+representing the vacuum,is equal to,1,basic operators
+multiplicity,constant,1,greek letters
+which,fraction,1,Fractions/Divisions
+divided by,fraction is,1,Fractions/Divisions
+close parenthesis,is valid,1,Brackets/grouping
+with,fraction's,1,Fractions/Divisions
+lowercase n,sub i,1,latin letters
+bar times,n represents,1,basic operators
+curly left brace for,the first case when,1,Brackets/grouping
+comma,by:,1,punctuation/separators
+where,power,1,Superscript/exponents
+w sub i which,the variable w with,1,Subscripts/indices
+from,over,1,Fractions/Divisions
+numerator,with,1,Fractions/Divisions
+brackets:,parentheses:,1,Brackets/grouping
+close parenthesis close,this refers to,1,Brackets/grouping
+level of that factor and the do-operator,value lowercase x rather than merely observed,1,latin letters
+open square bracket,the random variable,1,Brackets/grouping
+mu,with,1,greek letters
+open parenthesis,ordered pair,1,Brackets/grouping
+where theta,that it,1,greek letters
+fraction with numerator open square,ratio: the concentration of species,1,Fractions/Divisions
+close square bracket,of species b,1,Brackets/grouping
+superscript,o,1,Superscript/exponents
+standard has a known isotopic composition,value given in parts per thousand,1,greek letters
+upper,symbol,1,capitalization
+subscript thirty-seven,with a,1,Subscripts/indices
+of open bracket,thirty-seven for the,1,Brackets/grouping
+derivative with respect,rate of change,1,integral
+k,beta,1,greek letters
+power of,coefficients for,1,Superscript/exponents
+times,with,1,basic operators
+n sub,reaction of,1,Subscripts/indices
+q are,v equals,1,basic operators
+comma zero and,in the outflow,1,punctuation/separators
+are,plus,1,basic operators
+number,accumulation,1,greek letters
+sub two plus one half,reacts to form m s,1,basic operators
+distribution constant for solute,organic phase divided by,1,Fractions/Divisions
+attempted synthesis of ununennium with atomic,formula reads as follows: einsteinium two,1,greek letters
+nineteen was pursued by bombarding a target of einsteinium displayed as,fifty four with atomic number ninety nine plus calcium forty eight,1,basic operators
+two hundred fifty-four left superscript and ninety-nine left,atomic number twenty yields ununennium three hundred two,1,Superscript/exponents
+as described by,sigma y is,1,greek letters
+specific rotation standardized at temperature,chosen basis and the superscript,1,Superscript/exponents
+total number o fourf pi electrons involved in the pericyclic system under consideration,famous mathematical constant representing the ratio of a circle’s circumference to its diameter,1,greek letters
+residue divided,dividing it,1,Fractions/Divisions
+yields lowercase u,sub one a,1,latin letters
+lowercase,yields,1,latin letters
+up to lowercase u,on continuing until a,1,latin letters
+one yields lowercase u,two up to a,1,latin letters
+lowercase,and,1,latin letters
+close parenthesis,intersected with,1,Brackets/grouping
+is the first cluster,sub m plus two,1,basic operators
+and subtracting,bias of,1,Subscripts/indices
+true exponent,leading one,1,Superscript/exponents
+close parenthesis close,then applying the,1,Brackets/grouping
+plus,in,1,basic operators
+sub two,two times,1,basic operators
+sub seven,seven times,1,basic operators
+close parenthesis,i-th element,1,Brackets/grouping
+comma,across,1,punctuation/separators
+an example of a conjunctive normal form formula in a context,the logical conjunction that is a big and of n terms,1,greek letters
+its disjunctive normal form expansion leads to an exponential number of terms and it,each term is the logical disjunction or or of two variables the i-th term,1,Superscript/exponents
+disjunction of two literals,entire formula reads as:,1,greek letters
+dot dot dot logical,so on up to,1,punctuation/separators
+left curly brace,the set of,1,Brackets/grouping
+superscript,through,1,Superscript/exponents
+which are the constructors,denotes an indexed collection,1,Subscripts/indices
+open parenthesis,x in,1,Brackets/grouping
+dot,term,1,punctuation/separators
+set,variables,1,Brackets/grouping
+stands for,is typically,1,greek letters
+node considered after the i-th move n sub i stands for,or exploration bonus here c is a positive constant that controls,1,Subscripts/indices
+simulations for,term inside,1,greek letters
+simulations after,visits to,1,greek letters
+sum corresponding to exploitation and,i this specific form is,1,summations
+second component corresponding to exploration and this expression is used to select a move by choosing,core of the upper confidence bound applied to trees or u c b t algorithm balancing,1,capitalization
+close curly brace which is one component,defines a formal language where the number,1,Brackets/grouping
+is the correct theoretical value used as a test for the,shows this ratio is just slightly larger than four over three,1,Fractions/Divisions
+comma y,and are,1,punctuation/separators
+close curly brace this,prime in y that,1,Brackets/grouping
+pareto frontier consisting of all feasible criterion vectors that are not strictly dominated by any,'succeeds' therefore an element is included in p of y if and only if no,1,optimization operators
+feasible vector,dominates it,1,optimization operators
+derivation,sum,1,summations
+v sub,u and,1,Subscripts/indices
+l denotes,a plus,1,basic operators
+close parenthesis,and t,1,Brackets/grouping
+close curly brace where,itself is contained in,1,Brackets/grouping
+available,set,1,Brackets/grouping
+lowercase,that,1,latin letters
+all divided by the,entire expression calculates a,1,Fractions/Divisions
+open parenthesis,the expression:,1,Brackets/grouping
+lowercase q,insurance purchase,1,latin letters
+is damages and lowercase,individual pays the premium,1,latin letters
+insurance premium that would be paid,to yield the overall expected utility,1,Fractions/Divisions
+upper n,the influence,1,capitalization
+squared,while,1,Superscript/exponents
+quantity,factor,1,Brackets/grouping
+where lowercase,variables here,1,latin letters
+lowercase,term,1,latin letters
+open parenthesis y,the difference between,1,Brackets/grouping
+two,subscripts,1,Subscripts/indices
+where,plus,1,basic operators
+money multiplier,variables represent:,1,greek letters
+is the currency ratio which is,typically denoting resistance a radius or,1,greek letters
+public's holdings of currency relative,constant the formula is used,1,greek letters
+plus,the,1,basic operators
+total,sum,1,summations
+cumulative total from the previous trading day,difference between the day's advancers and decliners,1,greek letters
+euler's number and,maturity or expiration,1,greek letters
+quantity in parentheses,asset's forward price,1,Brackets/grouping
+exponent,t,1,Superscript/exponents
+forecast value and lowercase w,values where each error's contribution,1,latin letters
+monetary base,letter m,1,latin letters
+next quarter’s target is calculated,at time t equals i,1,basic operators
+cubed,three,1,Superscript/exponents
+investment yields ten percent per year for two years and negative,percent growth factor while zero point nine seven cubed represents a,1,Superscript/exponents
+years before annualizing,successive multiplicative operations,1,greek letters
+quantity,expression:,1,Brackets/grouping
+which is one plus the number of existing lines crossed by that dashed line given by,arises in combinatorial or sequence counting contexts possibly representing pairs or arrangements with certain constraints while,1,basic operators
+arrow,set,1,Brackets/grouping
+omega,weight,1,greek letters
+one grain,subscript sixty-four,1,Subscripts/indices
+dot dot dot,and so on,1,punctuation/separators
+set,collection,1,Brackets/grouping
+lowercase,signal,1,latin letters
+asterisk open square bracket,convolved with in parentheses,1,Brackets/grouping
+which gives,zero multiplies,1,greek letters
+in ell one whose components are,infinite series formed by multiplying each,1,greek letters
+so forth and an element in,products from i equals one onward,1,basic operators
+lowercase k,corresponding elements,1,latin letters
+of open parenthesis,cosine y cosine,1,Brackets/grouping
+of x times cosine of y times cosine of z plus,to three angles the first three terms each contain a single,1,basic operators
+of y times,factor and two,1,basic operators
+the product a b,a times b times,1,basic operators
+is the parametric representation of,t sub two this describes,1,Subscripts/indices
+comma,space,1,punctuation/separators
+closed interval open square bracket,ranges from a lower bound,1,Brackets/grouping
+primes,lowercase,1,latin letters
+over,slash,1,Fractions/Divisions
+open curly brace,variables denoted by,1,Brackets/grouping
+blackboard bold,formula is,1,greek letters
+lindhard formula,frequency omega,1,greek letters
+written as open angle bracket,from the contraction of a,1,Brackets/grouping
+sub,index,1,Subscripts/indices
+calligraphic,action,1,greek letters
+equals,by,1,basic operators
+mu,of,1,greek letters
+partial,index,1,Subscripts/indices
+of open parenthesis,depends on variables,1,Brackets/grouping
+of open parenthesis,three arguments: first,1,Brackets/grouping
+close parenthesis,a composition,1,Brackets/grouping
+an arbitrary smooth,determined by a,1,optimization operators
+open angle bracket bold,of the higgs field,1,Brackets/grouping
+semicolon,and,1,punctuation/separators
+close parenthesis relating,both measured in,1,Brackets/grouping
+luminosity of a star,the sun symbol refers,1,optimization operators
+mass c is the speed of light,one-half m v squared at low speeds,1,Superscript/exponents
+frequency omega and,x the parameter,1,greek letters
+x comma,transform while,1,punctuation/separators
+written as open angle bracket,of the complex conjugate of,1,Brackets/grouping
+integral of,expression defines,1,integral
+power,a,1,Superscript/exponents
+open parenthesis,refractive indices:,1,Brackets/grouping
+close parenthesis where,reflection the term,1,Brackets/grouping
+vector lowercase r cross,product of the position,1,latin letters
+an electron lowercase c is,the position vector r and,1,latin letters
+speed of light vector lowercase r is the electron’s position vector lowercase j,expresses the magnetic moment for a classical point charge in motion where c,1,latin letters
+lowercase,angle,1,latin letters
+which denotes the force vector in newton’s laws,is bold indicating it is a vector quantity,1,Brackets/grouping
+left angle bracket,expected value of,1,Brackets/grouping
+fluctuations are isotropic,or vacuum state,1,greek letters
+where,lowercase,1,latin letters
+curly brace,bracket q,1,Brackets/grouping
+close curly brace where,standard deviation which controls,1,Brackets/grouping
+semicolon,by,1,punctuation/separators
+lowercase,coefficient,1,latin letters
+fraction with,fraction: the,1,Fractions/Divisions
+unknown correlation lowercase rho from,deviations scaling the result to,1,latin letters
+close parenthesis is,is given by,1,Brackets/grouping
+it equals,expression is,1,basic operators
+quantity,quantity:,1,Brackets/grouping
+lambda is positive and,term involves a constant,1,greek letters
+equals,where,1,basic operators
+squared,behavior,1,Superscript/exponents
+all,quantity,1,Brackets/grouping
+shown as dot dot dot up to,the final term this final term is,1,punctuation/separators
+max of,value between,1,optimization operators
+displayed as vertical bar do open parenthesis,an intervention to set the random variable,1,Brackets/grouping
+equals,value,1,basic operators
+close parenthesis close parenthesis the interventional,conditional probability distinct from ordinary conditional,1,Brackets/grouping
+quantity open square bracket,of a random variable,1,Brackets/grouping
+equals,always,1,basic operators
+data are zero-centered before performing conventional principal component analysis,indicates that the data is centered at the origin,1,optimization operators
+all data points,not equal to,1,basic operators
+over all,to every,1,Fractions/Divisions
+not equal to,across all points,1,basic operators
+is the formula variable,contexts often in formulas,1,greek letters
+base-ten,numerator,1,Fractions/Divisions
+with numerator open square,are the concentration of,1,Fractions/Divisions
+bracketed quantities denote activities commonly approximated as,electrons transferred and the bracketed terms represent,1,Brackets/grouping
+entire expression in curly brackets,reaction quotient inside the logarithm,1,Brackets/grouping
+delta,“delta,1,greek letters
+subscript,with,1,Subscripts/indices
+t sub two where,d evaluated at temperature,1,Subscripts/indices
+for,plus,1,basic operators
+times,of,1,basic operators
+over d t where,net rate at which,1,Fractions/Divisions
+inflow and outflow respectively,system changes over time,1,Fractions/Divisions
+energy gap between,whose numerator is,1,Fractions/Divisions
+level with subscript,levels—going from level,1,Subscripts/indices
+the distribution constant for solute,equal to the activity of,1,basic operators
+system at a,phase divided by,1,Fractions/Divisions
+yields shown as right arrow two,the subscripts like “subscript two” in,1,Subscripts/indices
+slash,with,1,Fractions/Divisions
+k value for component,p here the subscript,1,Subscripts/indices
+equals,indicates,1,basic operators
+left superscript,of forty-eight,1,Superscript/exponents
+forty-eight shown as a left superscript,atomic number of one hundred nineteen,1,Superscript/exponents
+atomic number twenty shown as a left subscript producing as indicated by the right-pointing arrow ununennium indicated by,to indicate that it is in an excited higher-energy nuclear state this is a nuclear reaction in which,1,Subscripts/indices
+defined as v with a,also equal to four times,1,basic operators
+tube transverse cross-sectional,equality replaces that,1,basic operators
+and this equals four times v,with the circular cross-sectional area associated,1,basic operators
+the,lowercase,1,latin letters
+where d,subscript y,1,Subscripts/indices
+rotation defined at wavelength lambda,alpha is being referred to,1,greek letters
+temperature,superscript,1,Superscript/exponents
+here referring,constant equal,1,basic operators
+pi electrons involved,it commonly appears,1,greek letters
+terminal,final,1,optimization operators
+lowercase u,string “u,1,latin letters
+sub one goes to lowercase u,grammar or derivation where each “u,1,latin letters
+close parenthesis is the,in words this states,1,Brackets/grouping
+strong component,set named,1,Brackets/grouping
+close parenthesis,as the,1,Brackets/grouping
+dot dot dot,pattern up to,1,punctuation/separators
+remaining clusters are formed similarly,with the subscripts advancing sequentially,1,Subscripts/indices
+plus,times,1,basic operators
+open parenthesis negative,if “sign” is,1,Brackets/grouping
+the drain current,equals k times,1,basic operators
+floor of log base,power you would raise,1,Superscript/exponents
+close bracket,of two,1,Brackets/grouping
+of degree up to,highest power shown is,1,Superscript/exponents
+subscript,by,1,Subscripts/indices
+n close parenthesis,clauses is true,1,Brackets/grouping
+stands for the number of simulations for the node considered,c is a positive scaling constant that controls how strongly,1,greek letters
+vertical bar lowercase,d such that,1,latin letters
+example of an inherently ambiguous language,and then a right square bracket,1,Brackets/grouping
+section giving an,fraction with numerator,1,Fractions/Divisions
+letter,named,1,latin letters
+subscript,terms,1,Subscripts/indices
+lowercase,second,1,latin letters
+close parenthesis the,is defined as,1,Brackets/grouping
+in,set,1,Brackets/grouping
+dominates,than,1,optimization operators
+as part of,epsilon evaluated at,1,greek letters
+comma,dot,1,punctuation/separators
+denotes,times,1,basic operators
+decay constant,equal to,1,basic operators
+is the diffusion coefficient and,dee z sub t where,1,Subscripts/indices
+greater than zero plus,means the value of,1,basic operators
+e sub,case when,1,Subscripts/indices
+equals zero denotes,states that in,1,basic operators
+sub lowercase i,defined to be,1,latin letters
+close fraction,and then,1,Fractions/Divisions
+denotes the base year price index,a negative value means a decrease”,1,Subscripts/indices
+close parenthesis,of utility,1,Brackets/grouping
+or consumption,level is,1,summations
+is wealth lowercase,by p and,1,latin letters
+is damages and lowercase,and then increased by,1,latin letters
+close parenthesis,from two,1,Brackets/grouping
+equals,plus,1,basic operators
+sub one,c plus,1,basic operators
+two,plus,1,basic operators
+plus,with,1,basic operators
+two close parenthesis,two” all together,1,Brackets/grouping
+close parenthesis where,in other words,1,Brackets/grouping
+c,squared,1,Superscript/exponents
+the currency ratio meaning the ratio of,fraction whose numerator is one added to,1,Fractions/Divisions
+demand deposits,lowercase c,1,latin letters
+for a single company tobin’s q is given by,the expression is a fraction in the numerator take,1,Fractions/Divisions
+close parenthesis where the,then divide the entire,1,Brackets/grouping
+base,power,1,Superscript/exponents
+natural logarithm raised to,t here e is,1,Superscript/exponents
+close parenthesis,forecast value,1,Brackets/grouping
+forecast value and lowercase,values with larger weights,1,latin letters
+natural logarithm of the monetary base evaluated,by t this notation typically means “m,1,greek letters
+quarters,subscripts,1,Subscripts/indices
+corresponding,raised,1,Superscript/exponents
+five-year period,final value,1,punctuation/separators
+at a debt-to-gross-domestic-product ratio of fifty,percent times ten percent equals five,1,basic operators
+inflation reduces,you multiply,1,greek letters
+percent equals,hundred gives,1,basic operators
+meaning output or income per worker equals,defined as the product of two quantities:,1,basic operators
+positive constant times,proportional relationship between,1,basic operators
+it to the previously existing points,i equals one up to i,1,basic operators
+previous step,quantity: one,1,Brackets/grouping
+meaning n-tuples of non-intersecting paths in a directed acyclic graph,for each such n-tuple you take the sign of sigma,1,greek letters
+of,permutation,1,greek letters
+of open parenthesis,by the tuple,1,Brackets/grouping
+from,lowercase,1,latin letters
+i is the product of the,b you multiply together their individual,1,greek letters
+directed edges along,the determinant is,1,optimization operators
+grains doubles on each successive square of a,one plus two plus four plus continuing in,1,basic operators
+total number of grains on all sixty-four squares equals,same pattern indicated by “and so on” up to,1,basic operators
+which equals,equal to,1,basic operators
+bracket,is,1,Brackets/grouping
+inverse fourier transform,term from delta,1,greek letters
+value is,of lowercase,1,latin letters
+zero times the limit lim as n approaches infinity,combines two parts: first it takes the long-run value,1,basic operators
+n plus,value by,1,basic operators
+lowercase,the,1,latin letters
+equals,compute,1,basic operators
+lowercase k are the free indices,then add all those products together,1,latin letters
+sine,quantity,1,Brackets/grouping
+set with,of “a”,1,Brackets/grouping
+lowercase b and,the radical of,1,latin letters
+a polynomial,times “c”,1,basic operators
+power,y,1,Superscript/exponents
+equals zero where,dependent variable and,1,basic operators
+equals,be,1,basic operators
+quantity,factor:,1,Brackets/grouping
+open,lowercase,1,latin letters
+close parenthesis where here the constant,in other words you start with,1,Brackets/grouping
+divided,quotient,1,Fractions/Divisions
+this denotes the quotient of,of en comma one’ denotes,1,punctuation/separators
+n comma,dimensions and,1,punctuation/separators
+then of left parenthesis,at the input value,1,Brackets/grouping
+right parenthesis,function value,1,Brackets/grouping
+indexed by,the index,1,Subscripts/indices
+logic to which independence-friendly logic,subscript one indicates that it,1,Subscripts/indices
+in lindhard theory,sub q times,1,basic operators
+equals one,sub k,1,basic operators
+times,on,1,basic operators
+lowercase,symbols,1,latin letters
+in the color–flavor-locked pattern,the angle-bracket expectation value,1,Brackets/grouping
+cooper pairing where each quark field is,alpha then c then gamma five then,1,greek letters
+alpha with,proportional to,1,greek letters
+and this equals,written again as,1,basic operators
+open square bracket,following bracketed expression:,1,Brackets/grouping
+close square bracket,same spacetime point,1,Brackets/grouping
+open parenthesis,four variables,1,Brackets/grouping
+close parenthesis,y z,1,Brackets/grouping
+comma,between,1,punctuation/separators
+twenty-four operator name diag open parenthesis,the five diagonal entries in order:,1,Brackets/grouping
+close parenthesis describing,are zero and,1,Brackets/grouping
+wavefunction at time,comma y semicolon,1,punctuation/separators
+given by,greek letter,1,latin letters
+open parenthesis,two positions,1,Brackets/grouping
+comma,parameter,1,punctuation/separators
+integral with respect to,the factor psi of,1,integral
+divided,to,1,Fractions/Divisions
+close parenthesis where,measured in the,1,Brackets/grouping
+m subscript,the star’s,1,Subscripts/indices
+times open,by a,1,basic operators
+close parenthesis where,relativistic kinetic energy:,1,Brackets/grouping
+e raised,exponential “e,1,Superscript/exponents
+divided,dividing,1,Fractions/Divisions
+integral,context,1,integral
+subscript one vertical bar,bra-ket language as “bra,1,Subscripts/indices
+psi subscript one,the complex conjugate,1,Subscripts/indices
+psi of x,the angle-bracket expression,1,Brackets/grouping
+wave functions representing vectors in,overlap or inner product between,1,Fractions/Divisions
+square-integrable functions on,multiplying which ensures,1,greek letters
+raised,n,1,Superscript/exponents
+meaning brewster’s angle equals,inverse tangent also called,1,basic operators
+initial incident medium and,angle whose tangent equals,1,basic operators
+the refractive index of,that angle directly from,1,Subscripts/indices
+lowercase r and velocity,r with the current,1,latin letters
+lowercase v producing the,j and this same,1,latin letters
+lowercase,bold,1,latin letters
+lowercase r cross bold lowercase r cross bold lowercase v,charge’s motion and its position combine through the cross product,1,latin letters
+where lowercase,other words,1,latin letters
+shedar measured in arcseconds,the quantity d with,1,Brackets/grouping
+partial derivative with respect to,the first term is the,1,integral
+plus,field,1,basic operators
+open parenthesis,the flux,1,Brackets/grouping
+divergence div of open parenthesis,right-hand side the divergence of,1,Brackets/grouping
+where rho is density,final term s sub,1,Subscripts/indices
+a bar,an overbar,1,Fractions/Divisions
+pati-salam model this denotes one of the fermion representations under the gauge group su,quantity four marked with a horizontal bar to indicate a modified or related value,1,Brackets/grouping
+fluctuations are isotropic,vector r and,1,greek letters
+hubble constant,subscript “zero”,1,Subscripts/indices
+proper distance,lowercase v,1,latin letters
+where,quantity,1,Brackets/grouping
+multiplicity function,are available,1,greek letters
+using,“lowercase,1,latin letters
+squared,x,1,Superscript/exponents
+squared are,y dividing,1,Superscript/exponents
+lowercase,output,1,latin letters
+for the fréchet distribution,is a piecewise-defined expression,1,greek letters
+s squared,“s squared”,1,Superscript/exponents
+alpha,alpha”,1,greek letters
+lowercase,constant,1,latin letters
+power,root,1,Superscript/exponents
+the lag weight,is equal to,1,basic operators
+term,numerator,1,Fractions/Divisions
+lowercase j,than one,1,latin letters
+max of,quantities: first,1,optimization operators
+been set,externally forced,1,Brackets/grouping
+corresponding term disappears,equal to zero,1,basic operators
+bold,lowercase,1,latin letters
+the average over the,you add together all,1,Fractions/Divisions
+open parenthesis,the pair,1,Brackets/grouping
+close parenthesis,slope values”,1,Brackets/grouping
+as used in the expression for the root-mean-square deviation,and placing a hat over it indicates an estimate,1,Fractions/Divisions
+fraction with numerator,ratio of oxygen,1,Fractions/Divisions
+the sum represents,this equation expresses,1,summations
+lowercase,this,1,latin letters
+concentration of substance,right side showing,1,Subscripts/indices
+inflow and outflow respectively for a continuously stirred tank,outlet molar flow rate and the rate of accumulation,1,greek letters
+and the,divided by,1,Fractions/Divisions
+superscript,a,1,Superscript/exponents
+atomic number shown as left subscript one,calcium projectiles to synthesize a superheavy element,1,Subscripts/indices
+lowercase,velocity,1,latin letters
+lowercase t,t which,1,latin letters
+lowercase d where,a material here,1,latin letters
+superscript,temperature,1,Superscript/exponents
+carbon of,terminal position,1,optimization operators
+comma dot dot dot comma,on continuing this pattern until,1,punctuation/separators
+introduced in step four of,where each nonterminal symbol on,1,optimization operators
+vertices reachable from lowercase u by forward,u removed which is equivalent to removing,1,latin letters
+real value represented by a binary thirty-two floating-point number with sign bit,mantissa using twenty-three bits b sub j and e is the biased,1,Subscripts/indices
+e and twenty-three fraction bits,value of one hundred twenty-seven,1,Fractions/Divisions
+target element is not,part of the exponent,1,Superscript/exponents
+this polynomial of degree up to,a sub zero through a sub,1,Subscripts/indices
+close parenthesis,taken modulo,1,Brackets/grouping
+dot dot dot logical,ending with the clause,1,punctuation/separators
+resulting in two to the power of,where each clause contains exactly two literals,1,Superscript/exponents
+left curly brace,containing the elements,1,Brackets/grouping
+abstraction operator lambda binds,and removing the bound,1,greek letters
+is applied,formula used,1,greek letters
+the game tree,multi-armed bandit problems,1,greek letters
+close curly brace,a formal language,1,Brackets/grouping
+two context-free languages whose union is used as an example,m copies of the symbol b followed by m copies,1,greek letters
+one followed by lowercase,product of two quantities,1,latin letters
+b m twenty-five ranking function that controls,variable being set to the value zero,1,Brackets/grouping
+dominates,to,1,optimization operators
+dominates relation indicates strict preference,and distinct from y prime,1,optimization operators
+close parenthesis close parenthesis where,where this equation states that,1,Brackets/grouping
+sigma,n,1,greek letters
+close,times,1,basic operators
+comma,where,1,punctuation/separators
+sub t is,over time where,1,Fractions/Divisions
+r is,delta while,1,greek letters
+effectiveness coefficient delta is the decay constant sigma of,has volatility sigma that depends on the current state,1,greek letters
+the leveraged firm equals,conditional expectations and involving,1,basic operators
+colon,from,1,punctuation/separators
+vertical bar open parenthesis s,condition holds: for all t,1,Brackets/grouping
+open parenthesis t,consisting of s,1,Brackets/grouping
+close parenthesis,sub i,1,Brackets/grouping
+uppercase,the,1,capitalization
+largest firm and this comprehensive concentration index assigns greater weight to,consistency index s sub one denotes the first component score and,1,Subscripts/indices
+and y bar sub s t represents,which measures the treatment effect by comparing,1,Subscripts/indices
+dependent variable for group s at,treatment group to the change over,1,Fractions/Divisions
+derived formula for,multiplier that shows,1,greek letters
+multiplier where,supply with,1,greek letters
+mean absolute percent error that weights errors according to relevant business metrics,sum of actual values with w denoting the weight for each observation,1,summations
+t in quarters,different time periods,1,punctuation/separators
+corresponds,raised,1,Superscript/exponents
+rate of,third power,1,Superscript/exponents
+how one year of ten percent inflation reduces a fifty percent debt-to-g d p ratio by approximately five percent,the multiplication of two percentages where the result represents the compound effect of applying one percentage rate to another,1,greek letters
+product,quantity,1,Brackets/grouping
+line drawn from the new point to existing point i,term consisting of one plus a product of two factors,1,basic operators
+sub,equals,1,basic operators
+dot,dots,1,punctuation/separators
+open curly,the quantity,1,Brackets/grouping
+where lowercase u of lowercase f is,of twice the unit step function in,1,latin letters
+expression,formula,1,greek letters
+element in ell one with components x,examines the behavior of the sequence y,1,optimization operators
+sub zero y sub,with indices starting from,1,Subscripts/indices
+set,degrees,1,Brackets/grouping
+close square bracket and this,where the position vector x,1,Brackets/grouping
+parametric representation of a regular curve in the plane with curvature nowhere zero,parameter t which varies between t subscript one and t subscript two inclusive,1,Subscripts/indices
+close,over,1,Fractions/Divisions
+close parenthesis denotes,modded out by,1,Brackets/grouping
+n equals one to infinity,natural numbers starting from one,1,basic operators
+z subscript two representing,zed two which represents,1,Subscripts/indices
+is the dimension of the space in which the lattice exists,are variables that typically represent dimensions or degrees in mathematical contexts,1,greek letters
+existential second-order logic,of borel sets,1,Brackets/grouping
+close parenthesis which corresponds to one hundred eighty degrees,degree measure as a half rotation around a circle,1,Brackets/grouping
+in the lindhard formula,of q and omega,1,greek letters
+subscript k,single-particle energies,1,Subscripts/indices
+open angle bracket,expectation value of,1,Brackets/grouping
+number of spacetime dimensions,involves the minkowski metric,1,optimization operators
+close parenthesis where,of another function,1,Brackets/grouping
+open angle bracket bold,expectation value of the,1,Brackets/grouping
+subscript,of,1,Subscripts/indices
+operator name diag open parenthesis,the diagonal matrix with entries,1,Brackets/grouping
+one third comma,one-third negative one-third,1,punctuation/separators
+transforming in,applied to,1,optimization operators
+close,subscript,1,Subscripts/indices
+subscript sun symbol refers to solar values and,values represent absolute magnitudes in the v-band for,1,Subscripts/indices
+subscript asterisk refers to stellar,sun and the star respectively,1,Subscripts/indices
+end root,close parenthesis,1,Brackets/grouping
+close parenthesis representing,this expression captures,1,Brackets/grouping
+n subscript one is the refractive index of the initial medium,incidence at which light with a particular polarization is perfectly transmitted,1,Subscripts/indices
+lowercase j,j which,1,latin letters
+lowercase e,is the,1,latin letters
+bold lowercase v and,terms of either the,1,latin letters
+represents sources,for phi,1,greek letters
+bracket,the,1,Brackets/grouping
+where lowercase,us here,1,latin letters
+half-normal distribution using,sigma which represents,1,greek letters
+sigma parametrization,the distribution,1,greek letters
+squared,denote,1,Superscript/exponents
+variance,formula,1,greek letters
+second case is infinity otherwise,formula for certain probability distributions,1,greek letters
+the lag weight at lag i in the polynomial,a weighted series expansion with coefficients a sub j,1,Subscripts/indices
+close parenthesis close parenthesis,represents the probability that,1,Brackets/grouping
+been administered at,to the value,1,optimization operators
+is taken from the opposition’s most recently published fifa world ranking before the match,where higher-ranked opponents indicated by lower ranking position numbers result in larger multiplier values,1,greek letters
+conventional principal component analysis operates on zero-centered,equals the zero vector indicating that the,1,basic operators
+open parenthesis,between point,1,Brackets/grouping
+comma,points,1,punctuation/separators
+close parenthesis,points i,1,Brackets/grouping
+new team rating,particular index n,1,Subscripts/indices
+with a hat over it meaning,hat which denotes an estimator or,1,Fractions/Divisions
+parameter theta,value of,1,greek letters
+expression for,parameter theta,1,greek letters
+close fraction and finally the,with the overall result expressed,1,Fractions/Divisions
+open parenthesis,celsius for,1,Brackets/grouping
+azimuthal,momentum,1,greek letters
+g superscript,for atom,1,Superscript/exponents
+subscript vertical bar,orbital state ket,1,Subscripts/indices
+d t of,dt equals negative,1,basic operators
+mass balance for substance,molar flow rate of,1,Subscripts/indices
+times,volume,1,basic operators
+upper,oxygen,1,capitalization
+upper,s,1,capitalization
+the highest occupied,consecutive quantum levels,1,greek letters
+subscript,iron,1,Subscripts/indices
+subscript two right arrow,monoxide or hydrogen yields,1,Subscripts/indices
+subscript four,three oxide,1,Subscripts/indices
+i,lowercase,1,latin letters
+y is,zero plus,1,basic operators
+yield stress sigma,hall-petch strengthening coefficient,1,greek letters
+optical rotation lambda,lambda-th component of,1,greek letters
+four pi,its diameter,1,greek letters
+lowercase u,followed by,1,latin letters
+comma,produces,1,punctuation/separators
+comma dot dot dot comma,and so on up to,1,punctuation/separators
+close parenthesis set,but not in,1,Brackets/grouping
+m right curly brace,em and so on,1,Brackets/grouping
+i times,twenty-three-bit mantissa—times,1,basic operators
+floor,power,1,Superscript/exponents
+open parenthesis,that k,1,Brackets/grouping
+little,lowercase,1,latin letters
+game tree,formula is,1,greek letters
+open curly brace a to,all strings formed by repeating,1,Brackets/grouping
+which,equals,1,basic operators
+close,equals,1,basic operators
+open parenthesis,showing that,1,Brackets/grouping
+open parenthesis,applied to,1,Brackets/grouping
+close parenthesis,followed by,1,Brackets/grouping
+all of that divided by,one to time t in,1,Fractions/Divisions
+subscript,time,1,Subscripts/indices
+are k by k,plus an error term,1,basic operators
+treatment effect equals,sample mean of,1,basic operators
+plus,of,1,basic operators
+close bracket,of liabilities,1,Brackets/grouping
+of assets are difficult to observe directly,recorded on the balance sheet for both,1,Brackets/grouping
+uppercase,line,1,capitalization
+uppercase d line,stock market analysis,1,capitalization
+to,cubed,1,Superscript/exponents
+ten percent equals,twentieth which is,1,basic operators
+quantity in parenthesis,product of (n,1,Brackets/grouping
+p subscript,b) where,1,Subscripts/indices
+lowercase,vectors,1,latin letters
+sequence beginning with x subscript zero x,limit as n approaches infinity of y,1,Subscripts/indices
+from i equals one to,accounts for the pairwise products,1,basic operators
+is an,ranges over,1,Fractions/Divisions
+divided,one,1,Fractions/Divisions
+which in this context is identified with,the cyclic group of order two comma,1,punctuation/separators
+open square bracket,the floor of,1,Brackets/grouping
+comma,frequency,1,punctuation/separators
+with flavor,c gamma,1,greek letters
+of open parenthesis,the three arguments,1,Brackets/grouping
+fourier transform,fraction normalizes,1,Fractions/Divisions
+of x and t with respect to t,to have unit magnitude while preserving its phase,1,integral
+excess particle,power of,1,Superscript/exponents
+raised,s,1,Superscript/exponents
+close parenthesis,a sequence,1,Brackets/grouping
+lowercase,little,1,latin letters
+the force on,a vector quantity,1,Brackets/grouping
+open parenthesis bar four,the ordered triple open,1,Brackets/grouping
+is,times,1,basic operators
+of y semicolon,with scale parameter,1,punctuation/separators
+exponential,power,1,Superscript/exponents
+an,equals,1,basic operators
+population,quantity,1,Brackets/grouping
+and,subscript,1,Subscripts/indices
+y values and s sub,sample standard deviation of the,1,Subscripts/indices
+open parenthesis,of the,1,Brackets/grouping
+end square root close,with that entire fraction,1,Fractions/Divisions
+vertical bar,the quantity,1,Brackets/grouping
+dot dot dot,through the ellipsis,1,punctuation/separators
+shown as vertical bar,the do-intervention that sets,1,Brackets/grouping
+new team rating,the index n,1,Subscripts/indices
+bold lowercase,the vector,1,latin letters

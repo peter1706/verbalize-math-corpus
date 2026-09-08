@@ -1,0 +1,210 @@
+reference,hypothesis,count,group
+open parenthesis,the quantity,37,Brackets/grouping
+open square bracket,the concentration of,22,Brackets/grouping
+and,over,19,Fractions/Divisions
+divided,over,19,Fractions/Divisions
+comma,and,18,punctuation/separators
+over,by,11,Fractions/Divisions
+close,raised,10,Superscript/exponents
+open curly brace,the set of,10,Brackets/grouping
+bracket,parenthesis,7,Brackets/grouping
+superscript,degrees,6,Superscript/exponents
+equals,to,6,basic operators
+to,superscript,6,Superscript/exponents
+times,by,5,basic operators
+dot,ellipsis,5,punctuation/separators
+parenthesis,quantity,5,Brackets/grouping
+comma,to,5,punctuation/separators
+max,of,5,optimization operators
+to,squared,5,Superscript/exponents
+over,to,4,Fractions/Divisions
+is,equals,4,basic operators
+open angle bracket,expectation value of,4,Brackets/grouping
+raised to the,superscript lower case,4,Superscript/exponents
+and,times,4,basic operators
+colon,from,4,punctuation/separators
+dot,dots,4,punctuation/separators
+open bracket,the quantity,3,Brackets/grouping
+upper f upper,the free variables,3,capitalization
+yields lowercase,goes to,3,latin letters
+the quantity,open parenthesis,3,Brackets/grouping
+cubed,three,3,Superscript/exponents
+close,over,3,Fractions/Divisions
+right arrow to lowercase,goes to the letter,3,latin letters
+comma,through,3,punctuation/separators
+open,lowercase,3,latin letters
+subscript,at,3,Subscripts/indices
+superscript circle,degrees standard,3,Superscript/exponents
+left curly,the set,3,Brackets/grouping
+as,subscript,2,Subscripts/indices
+subscript,open,2,Subscripts/indices
+preferred,dominates,2,optimization operators
+brace,bracket,2,Brackets/grouping
+uppercase,y-bar,2,capitalization
+one point one squared,the power of two,2,Superscript/exponents
+open square bracket,closed interval from,2,Brackets/grouping
+solar symbol,circle dot,2,punctuation/separators
+lowercase,case,2,latin letters
+slash,or,2,Fractions/Divisions
+dot dot,up to,2,punctuation/separators
+upper,cap,2,capitalization
+lowercase,y-bar,2,latin letters
+squared,two,2,Superscript/exponents
+comma,for,2,punctuation/separators
+over,slash,2,Fractions/Divisions
+alpha,beta,2,greek letters
+over,of,2,Fractions/Divisions
+slash,over,2,Fractions/Divisions
+close parenthesis,end quantity,2,Brackets/grouping
+left curly brace,the set of,2,Brackets/grouping
+equals,from,2,basic operators
+superscript,to,2,Superscript/exponents
+sub,lowercase,2,latin letters
+quantity,quantity:,2,Brackets/grouping
+operator name diag open parenthesis,the diagonal matrix with entries,2,Brackets/grouping
+lowercase i,i of,2,latin letters
+comma dot dot dot comma,and so on up to,2,punctuation/separators
+as left superscript,and atomic number,2,Superscript/exponents
+with,dot,2,punctuation/separators
+lowercase i,in parentheses,2,latin letters
+left angle bracket,expectation value of,2,Brackets/grouping
+plus,and,2,basic operators
+close fraction,with units,1,Fractions/Divisions
+quantity,ket,1,Brackets/grouping
+the fraction,in parentheses,1,Fractions/Divisions
+bracket,parentheses,1,Brackets/grouping
+the,formula,1,greek letters
+close parenthesis close,with a closed,1,Brackets/grouping
+end set,close brace,1,Brackets/grouping
+comma,close,1,punctuation/separators
+dot dot,close ellipsis,1,punctuation/separators
+beginning parenthesis beginning,the quantity left,1,Brackets/grouping
+parenthesis p mod open,quantity modulo the quantity,1,Brackets/grouping
+upper m,$m$ are,1,capitalization
+times,jay,1,basic operators
+uppercase,let,1,capitalization
+open curly brace,set of elements,1,Brackets/grouping
+right arrow uppercase,sub i to,1,capitalization
+lowercase,model,1,latin letters
+lowercase,one,1,latin letters
+the,fraction:,1,Fractions/Divisions
+times,and,1,basic operators
+nine seven cubed,power of three,1,Superscript/exponents
+dot,through,1,punctuation/separators
+sub,sublowercase,1,latin letters
+open square,underbrace left,1,Brackets/grouping
+comma,where,1,punctuation/separators
+subscript,of,1,Subscripts/indices
+script,calligraphic,1,greek letters
+subscript twenty-four,twenty four,1,Subscripts/indices
+semicolon,semi-colon,1,punctuation/separators
+bracket,left,1,Brackets/grouping
+bracket,right,1,Brackets/grouping
+close parenthesis,super script,1,Brackets/grouping
+lowercase,vee,1,latin letters
+argument that,arg min,1,optimization operators
+bold beta,boldambeta of,1,greek letters
+open parenthesis,of boldam,1,Brackets/grouping
+two,two-lambda,1,greek letters
+subscript vertical bar,of the ket,1,Subscripts/indices
+all,over,1,Fractions/Divisions
+all in,close parenthesis,1,Brackets/grouping
+forty-eight as left superscript,calcium-forty-eight with atomic number,1,Superscript/exponents
+uppercase,cap,1,capitalization
+dot,period,1,punctuation/separators
+comma,condition,1,punctuation/separators
+open curly brace,of all functions,1,Brackets/grouping
+uppercase,eu,1,capitalization
+delta,delta-hat,1,greek letters
+upper,mape,1,capitalization
+lowercase x,for each,1,latin letters
+lowercase a,for each,1,latin letters
+less than or equal,between a i and,1,basic operators
+close square bracket,all of which,1,Brackets/grouping
+curly underbraced,labeled as,1,Brackets/grouping
+fraction,fraction:,1,Fractions/Divisions
+from,equals,1,basic operators
+superscript,which,1,Superscript/exponents
+angle brackets enclosing,expectation value of,1,Brackets/grouping
+operator,times,1,basic operators
+left angle bracket,inner product of,1,Brackets/grouping
+lowercase j,j which,1,latin letters
+left angle bracket,the average of,1,Brackets/grouping
+the exponential,e to,1,Superscript/exponents
+square,power,1,Superscript/exponents
+the argument,arg min,1,optimization operators
+bold beta,beta of,1,greek letters
+first case,it equals,1,basic operators
+end root,all raised,1,Superscript/exponents
+of j,j comma,1,punctuation/separators
+displayed as vertical do,lowercase d lowercase o,1,latin letters
+brackets,brace,1,Brackets/grouping
+times,then,1,basic operators
+as a left subscript,in an excited state,1,Subscripts/indices
+comma,hash,1,punctuation/separators
+lowercase,letter,1,latin letters
+open parenthesis,quantity: the,1,Brackets/grouping
+close parenthesis,double quote,1,Brackets/grouping
+right curly,indexed by,1,Subscripts/indices
+lowercase,dee,1,latin letters
+lowercase,ar,1,latin letters
+open curly brace,of all lower-case,1,Brackets/grouping
+vertical bar open parenthesis,pair consisting of lower-case,1,Brackets/grouping
+open parenthesis,of lower-case,1,Brackets/grouping
+close parenthesis,and lower-case,1,Brackets/grouping
+close fraction,and then,1,Fractions/Divisions
+numerator,numerator:,1,Fractions/Divisions
+of lowercase,such that,1,latin letters
+curly brace,quotation mark,1,Brackets/grouping
+this square bracket,and that underbrace,1,Brackets/grouping
+the,times,1,basic operators
+of y times the sine of z,followed by a closing double quotation mark,1,basic operators
+and,equals,1,basic operators
+lowercase,function,1,latin letters
+in the,divided by,1,Fractions/Divisions
+open parenthesis,following quantities:,1,Brackets/grouping
+multiplier,multiplier”,1,greek letters
+superscript,of,1,Superscript/exponents
+fraction with,ratio of,1,Fractions/Divisions
+equal,equals,1,basic operators
+divided by,numerator and,1,Fractions/Divisions
+two hundred fifty-four as left superscript of,einsteinium-two-hundred-fifty-four with mass number two hundred fifty-four,1,Superscript/exponents
+as left subscript of,in an excited state,1,Subscripts/indices
+alpha all,specific rotation,1,greek letters
+m,max-asa,1,optimization operators
+end,dots,1,punctuation/separators
+open curly brace all,strings of the form,1,Brackets/grouping
+lowercase t asterisk,t convolved with,1,latin letters
+square bracket,bracket where,1,Brackets/grouping
+sub calligraphic,by script,1,greek letters
+sequence open,set of,1,Brackets/grouping
+close curly brace,where n runs,1,Brackets/grouping
+h bar,h-bar times,1,basic operators
+of the quantity,open bracket one-half,1,Brackets/grouping
+circled dot,solar symbol,1,punctuation/separators
+asterisk close parenthesis,the star symbol,1,Brackets/grouping
+close parenthesis,complex conjugate,1,Brackets/grouping
+root,quantity,1,Brackets/grouping
+of j,comma quote,1,punctuation/separators
+open parenthesis,following terms:,1,Brackets/grouping
+parenthesis,quote,1,Brackets/grouping
+fraction with,logarithm of,1,Fractions/Divisions
+open,uppercase,1,capitalization
+vertical bar,times where,1,basic operators
+succeeds,dominates,1,optimization operators
+lowercase m,em em,1,latin letters
+uppercase,the,1,capitalization
+to,cubed,1,Superscript/exponents
+asterisk open square bracket,convolved with the quantity,1,Brackets/grouping
+close square bracket,where that quantity,1,Brackets/grouping
+open angle,the left-angle-bracket,1,Brackets/grouping
+close,right-angle-bracket,1,Brackets/grouping
+left angle bracket bold,vacuum expectation value of,1,Brackets/grouping
+one third comma,one-third one-half one-half,1,punctuation/separators
+squaredend,squared,1,Superscript/exponents
+left angle bracket,scalar product of,1,Brackets/grouping
+integral,conjugate,1,integral
+exp,exponential,1,Superscript/exponents
+of,parenthesis,1,Brackets/grouping
+argument,beta,1,greek letters
+open,(beta,1,greek letters

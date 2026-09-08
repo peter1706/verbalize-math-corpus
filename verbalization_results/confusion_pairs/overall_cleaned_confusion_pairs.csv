@@ -1,0 +1,204 @@
+group,reference,hypothesis,count
+Brackets/grouping,open parenthesis,the quantity,37
+Brackets/grouping,close,right,20
+Fractions/Divisons,and,over,19
+Fractions/Divisons,divided,over,19
+punctuation/separators,comma,and,18
+Brackets/grouping,open,left,17
+Brackets/grouping,open,of,14
+basic operators,multiplied,times,13
+Fractions/Divisons,over,by,11
+Brackets/grouping,open curly brace,the set of,10
+Brackets/grouping,close,all,9
+Brackets/grouping,bracket,parenthesis,7
+basic operators,equals,to,6
+Subscripts/indices,with,sub,6
+basic operators,times,by,5
+punctuation/separators,dot,ellipsis,5
+Brackets/grouping,parenthesis,quantity,5
+integral,d,dee,5
+punctuation/separators,comma,to,5
+optimization operators,max,of,5
+Superscript/exponents,to,squared,5
+Fractions/Divisons,over,to,4
+basic operators,is,equals,4
+Brackets/grouping,open angle bracket,expectation value of,4
+basic operators,and,times,4
+punctuation/separators,colon,from,4
+Brackets/grouping,right,to,4
+punctuation/separators,dot,dots,4
+Brackets/grouping,open bracket,the quantity,3
+Brackets/grouping,close,in,3
+Brackets/grouping,close,d,3
+Brackets/grouping,the quantity,open parenthesis,3
+Superscript/exponents,cubed,three,3
+Brackets/grouping,is an element of open,in the closed interval from,3
+Brackets/grouping,as a left,and atomic number,3
+punctuation/separators,comma,through,3
+Brackets/grouping,right arrow,goes to,3
+Brackets/grouping,left curly,the set,3
+Brackets/grouping,right,yields,2
+Brackets/grouping,ending,right,2
+Brackets/grouping,right,for,2
+optimization operators,preferred,dominates,2
+Brackets/grouping,brace,bracket,2
+Brackets/grouping,close,end,2
+Superscript/exponents,one point one squared,the power of two,2
+Brackets/grouping,open square bracket,closed interval from,2
+punctuation/separators,solar symbol,circle dot,2
+Brackets/grouping,curly,volts,2
+Fractions/Divisons,slash,or,2
+punctuation/separators,dot dot,up to,2
+Superscript/exponents,squared,two,2
+punctuation/separators,comma,for,2
+Fractions/Divisons,over,slash,2
+Brackets/grouping,close,from,2
+greek letters,alpha,beta,2
+Fractions/Divisons,over,of,2
+Fractions/Divisons,slash,over,2
+Brackets/grouping,close parenthesis,end quantity,2
+Brackets/grouping,left curly brace,the set of,2
+basic operators,equals,from,2
+Brackets/grouping,close,through,2
+Brackets/grouping,quantity,quantity:,2
+punctuation/separators,comma dot dot dot comma,and so on up to,2
+punctuation/separators,with,dot,2
+Brackets/grouping,left angle bracket,expectation value of,2
+Brackets/grouping,right,close,2
+basic operators,plus,and,2
+Brackets/grouping,quantity,ket,1
+Brackets/grouping,angle close,end ket,1
+Fractions/Divisons,the fraction,in parentheses,1
+Brackets/grouping,bracket,parentheses,1
+Brackets/grouping,close,intersection,1
+Brackets/grouping,close parenthesis close,with a closed,1
+Brackets/grouping,end set,close brace,1
+Brackets/grouping,beginning parenthesis beginning,the quantity left,1
+Brackets/grouping,beginning,left,1
+Subscripts/indices,sub,subzero,1
+Brackets/grouping,parenthesis p mod open,quantity modulo the quantity,1
+basic operators,times,jay,1
+integral,the,dee,1
+Brackets/grouping,open curly brace,set of elements,1
+Fractions/Divisons,the,fraction:,1
+basic operators,times,and,1
+Superscript/exponents,nine seven cubed,power of three,1
+punctuation/separators,dot,through,1
+Brackets/grouping,open square,underbrace left,1
+punctuation/separators,comma,where,1
+greek letters,script,calligraphic,1
+punctuation/separators,semicolon,semi-colon,1
+basic operators,multiplied by,times a,1
+Brackets/grouping,left,by:,1
+Brackets/grouping,bracket,left,1
+Brackets/grouping,bracket,right,1
+Brackets/grouping,close parenthesis,super script,1
+Brackets/grouping,open,parentheses,1
+Brackets/grouping,left,the,1
+Brackets/grouping,r,close,1
+optimization operators,argument that,arg min,1
+greek letters,bold beta,boldambeta of,1
+Brackets/grouping,open parenthesis,of boldam,1
+Brackets/grouping,close,closed,1
+Brackets/grouping,curly left brace first case,variance is piecewise defined as:,1
+greek letters,two,two-lambda,1
+Fractions/Divisons,all,over,1
+Brackets/grouping,all in,close parenthesis,1
+Brackets/grouping,shown as right arrow three,ununennium-three-oh-two with atomic number one-nineteen,1
+Brackets/grouping,in,open,1
+punctuation/separators,end set dot,and so on,1
+Brackets/grouping,open,the,1
+Brackets/grouping,right,in,1
+Brackets/grouping,brace,braces,1
+punctuation/separators,dot,period,1
+punctuation/separators,comma,condition,1
+Brackets/grouping,open curly brace,of all functions,1
+greek letters,delta,delta-hat,1
+basic operators,less than or equal,between a i and,1
+Brackets/grouping,open,inclusive,1
+Brackets/grouping,close square bracket,all of which,1
+Brackets/grouping,curly underbraced,labeled as,1
+Fractions/Divisons,fraction,fraction:,1
+basic operators,from,equals,1
+basic operators,operator,times,1
+Brackets/grouping,left angle bracket,inner product of,1
+Brackets/grouping,close,star,1
+Brackets/grouping,left angle bracket,the average of,1
+Superscript/exponents,the exponential,e to,1
+Superscript/exponents,square,power,1
+optimization operators,the argument,arg min,1
+greek letters,bold beta,beta of,1
+basic operators,first case,it equals,1
+Superscript/exponents,end root,all raised,1
+punctuation/separators,of j,j comma,1
+Brackets/grouping,of open,evaluated at,1
+basic operators,times,then,1
+Brackets/grouping,displayed as right arrow,ununennium with mass number,1
+punctuation/separators,comma,hash,1
+Brackets/grouping,open parenthesis,quantity: the,1
+Brackets/grouping,right curly,indexed by,1
+Brackets/grouping,open curly brace,of all lower-case,1
+Brackets/grouping,vertical bar open parenthesis,pair consisting of lower-case,1
+Brackets/grouping,open parenthesis,of lower-case,1
+Brackets/grouping,close parenthesis,and lower-case,1
+Fractions/Divisons,numerator,numerator:,1
+Brackets/grouping,curly brace,quotation mark,1
+Brackets/grouping,this square bracket,and that underbrace,1
+basic operators,the,times,1
+basic operators,of y times the sine of z,followed by a closing double quotation mark,1
+Brackets/grouping,sequence,left,1
+basic operators,and,equals,1
+Brackets/grouping,open,in,1
+Fractions/Divisons,in the,divided by,1
+Brackets/grouping,close,that,1
+Brackets/grouping,open curly brace,a piecewise-defined expression:,1
+Brackets/grouping,open parenthesis,following quantities:,1
+Fractions/Divisons,fraction with,ratio of,1
+basic operators,equal,equals,1
+Fractions/Divisons,divided by,numerator and,1
+Brackets/grouping,shown as right arrow,ununennium-three-hundred-two with mass number,1
+greek letters,alpha all,specific rotation,1
+optimization operators,m,max-asa,1
+punctuation/separators,end,dots,1
+Brackets/grouping,open curly brace all,strings of the form,1
+Brackets/grouping,close,is,1
+Fractions/Divisons,fraction with numerator,the formula is:,1
+Brackets/grouping,square bracket,bracket where,1
+Brackets/grouping,sequence open,set of,1
+Brackets/grouping,close curly brace,where n runs,1
+basic operators,h bar,h-bar times,1
+Brackets/grouping,of the quantity,open bracket one-half,1
+punctuation/separators,circled dot,solar symbol,1
+Brackets/grouping,asterisk close parenthesis,the star symbol,1
+Brackets/grouping,close parenthesis,complex conjugate,1
+Brackets/grouping,root,quantity,1
+punctuation/separators,of j,comma quote,1
+Brackets/grouping,open parenthesis,following terms:,1
+Brackets/grouping,close,volts,1
+Brackets/grouping,open,(two,1
+Brackets/grouping,yields shown as right,to three hundred two,1
+Brackets/grouping,close,intersect,1
+Brackets/grouping,left,open,1
+Brackets/grouping,p mod,modulo open,1
+basic operators,vertical bar,times where,1
+optimization operators,succeeds,dominates,1
+integral,d t,dee tee,1
+Superscript/exponents,to,cubed,1
+Brackets/grouping,asterisk open square bracket,convolved with the quantity,1
+Brackets/grouping,close square bracket,where that quantity,1
+Brackets/grouping,open,(open,1
+Brackets/grouping,open curly,the sequence,1
+Brackets/grouping,open,(one,1
+Superscript/exponents,degrees,degrees),1
+Brackets/grouping,open angle,the left-angle-bracket,1
+Brackets/grouping,close,right-angle-bracket,1
+Brackets/grouping,left angle bracket bold,vacuum expectation value of,1
+punctuation/separators,one third comma,one-third one-half one-half,1
+integral,with,dy,1
+Superscript/exponents,squaredend,squared,1
+Brackets/grouping,left angle bracket,scalar product of,1
+integral,integral,conjugate,1
+Superscript/exponents,exp,exponential,1
+Brackets/grouping,of,parenthesis,1
+greek letters,argument,beta,1
+Brackets/grouping,end root close,all of that,1

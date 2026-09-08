@@ -1,0 +1,141 @@
+reference,hypothesis,count,group
+comma,and,22,punctuation/separators
+open parenthesis,the quantity,17,Brackets/grouping
+open curly brace,the set of,17,Brackets/grouping
+open square bracket,the concentration of,14,Brackets/grouping
+dot,ellipsis,10,punctuation/separators
+lowercase,letter,7,latin letters
+as,subscript,6,Subscripts/indices
+uppercase,case,5,capitalization
+over,to,5,Fractions/Divisions
+superscript,to,5,Superscript/exponents
+close parenthesis,end quantity,5,Brackets/grouping
+comma,to,5,punctuation/separators
+max,of,5,optimization operators
+in square brackets,the concentration of,5,Brackets/grouping
+with,dot,4,punctuation/separators
+left curly brace,the set of,4,Brackets/grouping
+equals,to,4,basic operators
+superscript,of,4,Superscript/exponents
+lowercase,\(,4,latin letters
+divided,over,4,Fractions/Divisions
+superscript,degree,3,Superscript/exponents
+parenthesis,quantity,3,Brackets/grouping
+dot dot dot,on up to,3,punctuation/separators
+open bracket,the quantity,3,Brackets/grouping
+upper f upper,the free variables,3,capitalization
+lowercase,little,3,latin letters
+comma dot dot dot comma,and so on up to,3,punctuation/separators
+upper t,t which,3,capitalization
+colon,from,3,punctuation/separators
+operator name diag open parenthesis,the diagonal matrix with entries,3,Brackets/grouping
+and,times,3,basic operators
+open angle bracket,expectation value of,3,Brackets/grouping
+times,cap­i­tal,2,basic operators
+mu,mew,2,greek letters
+vertical bar open parenthesis,where the ordered pair,2,Brackets/grouping
+comma,semicolon,2,punctuation/separators
+close,power,2,Superscript/exponents
+close parenthesis,in the,2,Brackets/grouping
+upper,\(,2,capitalization
+of,parenthesis,2,Brackets/grouping
+comma,for,2,punctuation/separators
+over,by,2,Fractions/Divisions
+left angle bracket,inner product of,2,Brackets/grouping
+slash,over,2,Fractions/Divisions
+open curly brace,set of all,2,Brackets/grouping
+as left superscript,with atomic number,2,Superscript/exponents
+dot,dots,2,punctuation/separators
+lowercase t asterisk,t convolved with,2,latin letters
+to,squared,2,Superscript/exponents
+of,over,2,Fractions/Divisions
+left angle bracket,expectation value of,2,Brackets/grouping
+upper,oh,2,capitalization
+upper,aitch,2,capitalization
+upper,ds,2,capitalization
+solar symbol,subscript sun,2,Subscripts/indices
+brackets,brace,1,Brackets/grouping
+open square bracket,the quantity cap­i­tal,1,Brackets/grouping
+open,quantity,1,Brackets/grouping
+bracket,quantity,1,Brackets/grouping
+times,big,1,basic operators
+this square,under brace,1,Brackets/grouping
+parenthesis,under,1,Brackets/grouping
+times,little,1,basic operators
+open square bracket,closed interval from,1,Brackets/grouping
+open square bracket,the ratio of,1,Brackets/grouping
+close square,end quantity,1,Brackets/grouping
+left angle bracket,the bra kay,1,Brackets/grouping
+lowercase,vee,1,latin letters
+open parenthesis,following terms:,1,Brackets/grouping
+comma,or,1,punctuation/separators
+square,quantity,1,Brackets/grouping
+fraction whose,ratio of,1,Fractions/Divisions
+subscript vertical bar,quantum state ket,1,Subscripts/indices
+open parenthesis two,the quantity (two,1,Brackets/grouping
+comma,dot,1,punctuation/separators
+sub two dot dot dot,and so on up to,1,punctuation/separators
+dot dot,so on,1,punctuation/separators
+left curly,the set,1,Brackets/grouping
+comma,condition,1,punctuation/separators
+open curly brace,the set containing,1,Brackets/grouping
+vertical bar upper,given t is,1,capitalization
+uppercase e uppercase,the expected utility,1,capitalization
+lowercase,function,1,latin letters
+over,slash,1,Fractions/Divisions
+integral,conjugate,1,integral
+lowercase j,and this,1,latin letters
+open curly brace,the quantity negative,1,Brackets/grouping
+close curly,end quantity,1,Brackets/grouping
+semicolon,and,1,punctuation/separators
+end root,close parenthesis,1,Brackets/grouping
+open square,the quantity,1,Brackets/grouping
+bold lowercase,the vector,1,latin letters
+curly,braces,1,Brackets/grouping
+open parenthesis,quantity: the,1,Brackets/grouping
+close parenthesis p mod open,end quantity modulo the quantity:,1,Brackets/grouping
+open,uppercase,1,capitalization
+colon,that,1,punctuation/separators
+vertical bar open parenthesis,ordered pair consisting of,1,Brackets/grouping
+numerator,numerator:,1,Fractions/Divisions
+sub,letter,1,latin letters
+square bracket,bracketed quantity,1,Brackets/grouping
+open square bracket,the interval from,1,Brackets/grouping
+sequence open curly,set consisting of,1,Brackets/grouping
+asterisk close,subscript star,1,Subscripts/indices
+open curly brace,following in cases:,1,Brackets/grouping
+open parenthesis,the quantity:,1,Brackets/grouping
+opposition strength multiplier,i e r,1,greek letters
+with numerator open,the concentration of,1,Fractions/Divisions
+fraction with,ratio of,1,Fractions/Divisions
+with respect to,of the concentration,1,integral
+forty-eight as left superscript,calcium-forty-eight with atomic number,1,Superscript/exponents
+close parenthesis p,all taken modulo,1,Brackets/grouping
+t close parenthesis d,tee dee little zed,1,Brackets/grouping
+lowercase x,little ex,1,latin letters
+sub,lowercase,1,latin letters
+square bracket,bracket where,1,Brackets/grouping
+the product a b,a times b times,1,basic operators
+x equals,equals c,1,basic operators
+and,over,1,Fractions/Divisions
+close parenthesis close parenthesis,end quantity end quantity,1,Brackets/grouping
+h bar,h-bar times,1,basic operators
+one third comma,one-third one-half one-half,1,punctuation/separators
+close parenthesis,complex conjugate,1,Brackets/grouping
+a bar,an overbar,1,Fractions/Divisions
+times,by,1,basic operators
+bracket,all,1,Brackets/grouping
+open parenthesis,the following:,1,Brackets/grouping
+upper m,em ess,1,capitalization
+upper s,ess oh,1,capitalization
+upper,ess,1,capitalization
+upper c,cee aitch,1,capitalization
+comma,cee,1,punctuation/separators
+upper,en,1,capitalization
+upper,gs,1,capitalization
+lowercase,tn,1,latin letters
+equals,from,1,basic operators
+n close,n) colon,1,punctuation/separators
+calligraphic,script,1,greek letters
+operator,times,1,basic operators
+argument,beta,1,greek letters
